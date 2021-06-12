@@ -1,2 +1,4 @@
-# BertTextClassification
-Text Classification use Bert architecture
+# Text classification use Bert Architecture
+
+
+
